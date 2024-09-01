@@ -1,5 +1,5 @@
 --lua roblox
-
+--can full work only if client sided and executed with solara (or other)
 
 
 -- Instances:
