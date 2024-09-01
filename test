@@ -1,2 +1,2 @@
---lua
-warn("test")
+--lua roblox
+warn("player",game.Players.LocalPlayer.Name,"executed.")
