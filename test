@@ -1,0 +1,2 @@
+--lua
+warn("test")
