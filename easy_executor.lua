@@ -320,6 +320,7 @@ log.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 log.BackgroundTransparency = 1.000
 log.BorderColor3 = Color3.fromRGB(0, 0, 0)
 log.BorderSizePixel = 0
+log.RichText = true
 log.Position = UDim2.new(-0.503579974, 0, 1.02985072, 0)
 log.Size = UDim2.new(0, 823, 0, 36)
 log.Visible = false
